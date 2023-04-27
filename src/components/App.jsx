@@ -66,6 +66,6 @@ const App = () => {
       <Route path="*" element={<Navigate to={routes.root} />} />
     </Routes>
   );
-};
+};// <div>Loading...</div>
 
 export { App };
