@@ -2,7 +2,7 @@
   "name": "goosetrack",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danilvelichko.github.io/GooseTrack/",
+  "homepage": "https://DanilVelichko.github.io/GooseTrack/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.3",
